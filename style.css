@@ -194,6 +194,17 @@ h3 {
 .focus-grid,
 .info-grid,
 .project-grid,
+.contact-info address {
+  font-style: normal;
+  background: var(--soft-bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 22px;
+}
+
+.contact-info p {
+  margin: 8px 0;
+}
 .contact-grid {
   display: grid;
   gap: 16px;
