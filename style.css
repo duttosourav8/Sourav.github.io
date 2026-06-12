@@ -268,3 +268,10 @@ h3 { color: var(--navy-dark); margin: 0 0 8px; }
     gap: 4px;
   }
 }
+body {
+  background: #f8f9fa;
+}
+
+.profile-image img {
+  max-height: 300px;
+}
